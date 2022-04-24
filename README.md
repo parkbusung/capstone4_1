@@ -1,3 +1,4 @@
 # capstone4_1
 
-끄적이기
+캡스톤 디자인 각자의 branch 사용
+main에 병합
